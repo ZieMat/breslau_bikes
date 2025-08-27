@@ -1232,1233 +1232,285 @@
             </Point>
         </Placemark>
         <Placemark id="413">
-            <name>Sukielicka / Rogowska</name>
-            <Point id="412">
-                <coordinates>16.946011,51.118185,0.0</coordinates>
-            </Point>
-        </Placemark>
-        <Placemark id="415">
             <name>Kozanowska/Pałucka</name>
-            <Point id="414">
+            <Point id="412">
                 <coordinates>16.97735,51.13863,0.0</coordinates>
             </Point>
         </Placemark>
-        <Placemark id="417">
+        <Placemark id="415">
             <name>Piławska</name>
-            <Point id="416">
+            <Point id="414">
                 <coordinates>17.04294,51.07236,0.0</coordinates>
             </Point>
         </Placemark>
-        <Placemark id="419">
+        <Placemark id="417">
             <name>Gorlicka/Stanety</name>
-            <Point id="418">
+            <Point id="416">
                 <coordinates>17.11679,51.14518,0.0</coordinates>
             </Point>
         </Placemark>
-        <Placemark id="421">
+        <Placemark id="419">
             <name>3M</name>
-            <Point id="420">
+            <Point id="418">
                 <coordinates>17.11456,51.1277,0.0</coordinates>
             </Point>
         </Placemark>
-        <Placemark id="423">
+        <Placemark id="421">
             <name>Gazowa / Międzyleska</name>
-            <Point id="422">
+            <Point id="420">
                 <coordinates>17.07026,51.07814,0.0</coordinates>
             </Point>
         </Placemark>
-        <Placemark id="425">
+        <Placemark id="423">
             <name>Bezpieczna/Jugosławiańska</name>
-            <Point id="424">
+            <Point id="422">
                 <coordinates>17.02028,51.13894,0.0</coordinates>
             </Point>
         </Placemark>
-        <Placemark id="427">
+        <Placemark id="425">
             <name>Amazon WRO2</name>
-            <Point id="426">
+            <Point id="424">
                 <coordinates>16.950763,51.034956,0.0</coordinates>
             </Point>
         </Placemark>
-        <Placemark id="429">
+        <Placemark id="427">
             <name>Gajowicka</name>
-            <Point id="428">
+            <Point id="426">
                 <coordinates>17.00453,51.085656,0.0</coordinates>
             </Point>
         </Placemark>
-        <Placemark id="431">
+        <Placemark id="429">
             <name>Dalimira/Pęgowska</name>
-            <Point id="430">
+            <Point id="428">
                 <coordinates>16.974741,51.196906,0.0</coordinates>
             </Point>
         </Placemark>
-        <Placemark id="433">
+        <Placemark id="431">
             <name>Nowodworska/Strzegomska</name>
-            <Point id="432">
+            <Point id="430">
                 <coordinates>16.966035,51.114538,0.0</coordinates>
             </Point>
         </Placemark>
-        <Placemark id="435">
+        <Placemark id="433">
             <name>Kopycińskiego/Drabika</name>
-            <Point id="434">
+            <Point id="432">
                 <coordinates>17.052487,51.058262,0.0</coordinates>
             </Point>
         </Placemark>
-        <Placemark id="437">
+        <Placemark id="435">
             <name>Czarnuszkowa/Waniliowa</name>
-            <Point id="436">
+            <Point id="434">
                 <coordinates>16.999845,51.18079,0.0</coordinates>
             </Point>
         </Placemark>
-        <Placemark id="439">
+        <Placemark id="437">
             <name>Bierutowska</name>
-            <Point id="438">
+            <Point id="436">
                 <coordinates>17.13217,51.152216,0.0</coordinates>
             </Point>
         </Placemark>
-        <Placemark id="441">
+        <Placemark id="439">
             <name>Ziemniaczana/Boiskowa</name>
-            <Point id="440">
+            <Point id="438">
                 <coordinates>17.091358,51.047299,0.0</coordinates>
             </Point>
         </Placemark>
-        <Placemark id="443">
+        <Placemark id="441">
             <name>Lekarska/Żmigrodzka</name>
-            <Point id="442">
+            <Point id="440">
                 <coordinates>17.027766,51.161667,0.0</coordinates>
             </Point>
         </Placemark>
-        <Placemark id="445">
+        <Placemark id="443">
             <name>Starodębowa (Wrocław Pawłowice)</name>
-            <Point id="444">
+            <Point id="442">
                 <coordinates>17.109124,51.168502,0.0</coordinates>
             </Point>
         </Placemark>
-        <Placemark id="447">
-            <name>Ibn Siny Awicenny (Wrocław Zachodni)</name>
-            <Point id="446">
-                <coordinates>16.950684,51.090573,0.0</coordinates>
-            </Point>
-        </Placemark>
-        <Placemark id="449">
-            <name>Grapowa</name>
-            <Point id="448">
-                <coordinates>17.065717,51.061535,0.0</coordinates>
-            </Point>
-        </Placemark>
-        <Placemark id="451">
+        <Placemark id="445">
             <name>Wrocław Osobowice</name>
-            <Point id="450">
+            <Point id="444">
                 <coordinates>16.9975,51.166806,0.0</coordinates>
             </Point>
         </Placemark>
-        <Placemark id="453">
+        <Placemark id="447">
             <name>Powstańców Śląskich/Orla</name>
-            <Point id="452">
+            <Point id="446">
                 <coordinates>17.00773,51.08,0.0</coordinates>
             </Point>
         </Placemark>
-        <Placemark id="455">
+        <Placemark id="449">
             <name>Boiskowa / Koreańska</name>
-            <Point id="454">
+            <Point id="448">
                 <coordinates>17.082919,51.049944,0.0</coordinates>
             </Point>
         </Placemark>
-        <Placemark id="457">
+        <Placemark id="451">
             <name>Swojczycka / Magellana</name>
-            <Point id="456">
+            <Point id="450">
                 <coordinates>17.120977,51.113559,0.0</coordinates>
             </Point>
         </Placemark>
-        <Placemark id="459">
+        <Placemark id="453">
             <name>Jerzmanowska / Adamczewskich</name>
-            <Point id="458">
+            <Point id="452">
                 <coordinates>16.866329,51.12056,0.0</coordinates>
             </Point>
         </Placemark>
-        <Placemark id="461">
+        <Placemark id="455">
             <name>Jodłowicka</name>
-            <Point id="460">
+            <Point id="454">
                 <coordinates>16.896987,51.169936,0.0</coordinates>
             </Point>
         </Placemark>
-        <Placemark id="463">
+        <Placemark id="457">
             <name>Wrocław Żerniki (stacja kolejowa)</name>
-            <Point id="462">
+            <Point id="456">
                 <coordinates>16.91389,51.12645,0.0</coordinates>
             </Point>
         </Placemark>
-        <Placemark id="465">
+        <Placemark id="459">
             <name>Międzyrzecka</name>
-            <Point id="464">
+            <Point id="458">
                 <coordinates>17.080458,51.09501,0.0</coordinates>
             </Point>
         </Placemark>
-        <Placemark id="467">
-            <name>Wrocław Wojnów, Przy Torze (przystanek kolejowy)</name>
-            <Point id="466">
-                <coordinates>17.157738,51.103202,0.0</coordinates>
-            </Point>
-        </Placemark>
-        <Placemark id="469">
+        <Placemark id="461">
             <name>Awicenny</name>
-            <Point id="468">
+            <Point id="460">
                 <coordinates>16.956292,51.081686,0.0</coordinates>
             </Point>
         </Placemark>
-        <Placemark id="471">
-            <name>Port Lotniczy</name>
-            <Point id="470">
-                <coordinates>16.880269,51.110345,0.0</coordinates>
-            </Point>
-        </Placemark>
-        <Placemark id="473">
-            <name>Wrocław Wojszyce (przystanek kolejowy)</name>
-            <Point id="472">
-                <coordinates>17.032088,51.068934,0.0</coordinates>
-            </Point>
-        </Placemark>
-        <Placemark id="475">
+        <Placemark id="463">
             <name>Marszowicka</name>
-            <Point id="474">
+            <Point id="462">
                 <coordinates>16.881418,51.16525,0.0</coordinates>
             </Point>
         </Placemark>
-        <Placemark id="477">
+        <Placemark id="465">
             <name>Hala Stulecia</name>
-            <Point id="476">
+            <Point id="464">
                 <coordinates>17.073909,51.107838,0.0</coordinates>
             </Point>
         </Placemark>
-        <Placemark id="479">
+        <Placemark id="467">
             <name>Ułańska</name>
-            <Point id="478">
+            <Point id="466">
                 <coordinates>17.012027,51.054164,0.0</coordinates>
             </Point>
         </Placemark>
-        <Placemark id="481">
+        <Placemark id="469">
             <name>Akademia Wojsk Lądowych</name>
-            <Point id="480">
+            <Point id="468">
                 <coordinates>17.055193,51.141921,0.0</coordinates>
             </Point>
         </Placemark>
-        <Placemark id="483">
-            <name>BIKE 591106</name>
-            <Point id="482">
-                <coordinates>21.027082,52.273324,0.0</coordinates>
-            </Point>
-        </Placemark>
-        <Placemark id="485">
-            <name>BIKE 591970</name>
-            <Point id="484">
-                <coordinates>21.025782,52.273276,0.0</coordinates>
-            </Point>
-        </Placemark>
-        <Placemark id="487">
-            <name>BIKE 591800</name>
-            <Point id="486">
-                <coordinates>21.027164,52.273502,0.0</coordinates>
-            </Point>
-        </Placemark>
-        <Placemark id="489">
-            <name>BIKE 590214</name>
-            <Point id="488">
-                <coordinates>21.026798,52.273373,0.0</coordinates>
-            </Point>
-        </Placemark>
-        <Placemark id="491">
-            <name>BIKE 590156</name>
-            <Point id="490">
-                <coordinates>21.026729,52.272991,0.0</coordinates>
-            </Point>
-        </Placemark>
-        <Placemark id="493">
-            <name>BIKE 592596</name>
-            <Point id="492">
-                <coordinates>21.026744,52.273276,0.0</coordinates>
-            </Point>
-        </Placemark>
-        <Placemark id="495">
-            <name>BIKE 592924</name>
-            <Point id="494">
-                <coordinates>21.026802,52.273244,0.0</coordinates>
-            </Point>
-        </Placemark>
-        <Placemark id="497">
-            <name>BIKE 592797</name>
-            <Point id="496">
-                <coordinates>21.026996,52.2732,0.0</coordinates>
-            </Point>
-        </Placemark>
-        <Placemark id="499">
-            <name>BIKE 592938</name>
-            <Point id="498">
-                <coordinates>21.02666,52.273138,0.0</coordinates>
-            </Point>
-        </Placemark>
-        <Placemark id="501">
-            <name>BIKE 592747</name>
-            <Point id="500">
-                <coordinates>21.02696,52.273267,0.0</coordinates>
-            </Point>
-        </Placemark>
-        <Placemark id="503">
-            <name>BIKE 592771</name>
-            <Point id="502">
-                <coordinates>21.027027,52.273209,0.0</coordinates>
-            </Point>
-        </Placemark>
-        <Placemark id="505">
-            <name>BIKE 592636</name>
-            <Point id="504">
-                <coordinates>21.027149,52.273324,0.0</coordinates>
-            </Point>
-        </Placemark>
-        <Placemark id="507">
-            <name>BIKE 592831</name>
-            <Point id="506">
-                <coordinates>21.026862,52.27316,0.0</coordinates>
-            </Point>
-        </Placemark>
-        <Placemark id="509">
-            <name>BIKE 592895</name>
-            <Point id="508">
-                <coordinates>21.026807,52.273293,0.0</coordinates>
-            </Point>
-        </Placemark>
-        <Placemark id="511">
-            <name>BIKE 592814</name>
-            <Point id="510">
-                <coordinates>21.026924,52.273302,0.0</coordinates>
-            </Point>
-        </Placemark>
-        <Placemark id="513">
-            <name>BIKE 592796</name>
-            <Point id="512">
-                <coordinates>21.026716,52.273138,0.0</coordinates>
-            </Point>
-        </Placemark>
-        <Placemark id="515">
-            <name>BIKE 592174</name>
-            <Point id="514">
-                <coordinates>21.026827,52.2732,0.0</coordinates>
-            </Point>
-        </Placemark>
-        <Placemark id="517">
-            <name>BIKE 592900</name>
-            <Point id="516">
-                <coordinates>21.026984,52.273093,0.0</coordinates>
-            </Point>
-        </Placemark>
-        <Placemark id="519">
-            <name>BIKE 592887</name>
-            <Point id="518">
-                <coordinates>21.026676,52.273413,0.0</coordinates>
-            </Point>
-        </Placemark>
-        <Placemark id="521">
-            <name>BIKE 592921</name>
-            <Point id="520">
-                <coordinates>21.026773,52.273387,0.0</coordinates>
-            </Point>
-        </Placemark>
-        <Placemark id="523">
-            <name>BIKE 592224</name>
-            <Point id="522">
-                <coordinates>21.026856,52.273316,0.0</coordinates>
-            </Point>
-        </Placemark>
-        <Placemark id="525">
-            <name>BIKE 592763</name>
-            <Point id="524">
-                <coordinates>21.026727,52.273307,0.0</coordinates>
-            </Point>
-        </Placemark>
-        <Placemark id="527">
-            <name>BIKE 592939</name>
-            <Point id="526">
-                <coordinates>21.026862,52.273111,0.0</coordinates>
-            </Point>
-        </Placemark>
-        <Placemark id="529">
-            <name>BIKE 592925</name>
-            <Point id="528">
-                <coordinates>21.026904,52.27328,0.0</coordinates>
-            </Point>
-        </Placemark>
-        <Placemark id="531">
-            <name>BIKE 592864</name>
-            <Point id="530">
-                <coordinates>21.026967,52.273071,0.0</coordinates>
-            </Point>
-        </Placemark>
-        <Placemark id="533">
-            <name>BIKE 592774</name>
-            <Point id="532">
-                <coordinates>21.026924,52.273142,0.0</coordinates>
-            </Point>
-        </Placemark>
-        <Placemark id="535">
-            <name>BIKE 592670</name>
-            <Point id="534">
-                <coordinates>21.027027,52.273187,0.0</coordinates>
-            </Point>
-        </Placemark>
-        <Placemark id="537">
-            <name>BIKE 592940</name>
-            <Point id="536">
-                <coordinates>21.026978,52.273062,0.0</coordinates>
-            </Point>
-        </Placemark>
-        <Placemark id="539">
-            <name>BIKE 592712</name>
-            <Point id="538">
-                <coordinates>21.027047,52.273276,0.0</coordinates>
-            </Point>
-        </Placemark>
-        <Placemark id="541">
-            <name>BIKE 592923</name>
-            <Point id="540">
-                <coordinates>21.026913,52.273151,0.0</coordinates>
-            </Point>
-        </Placemark>
-        <Placemark id="543">
-            <name>BIKE 592624</name>
-            <Point id="542">
-                <coordinates>21.027038,52.273111,0.0</coordinates>
-            </Point>
-        </Placemark>
-        <Placemark id="545">
-            <name>BIKE 592901</name>
-            <Point id="544">
-                <coordinates>21.02692,52.273356,0.0</coordinates>
-            </Point>
-        </Placemark>
-        <Placemark id="547">
-            <name>BIKE 592492</name>
-            <Point id="546">
-                <coordinates>21.027009,52.273436,0.0</coordinates>
-            </Point>
-        </Placemark>
-        <Placemark id="549">
-            <name>BIKE 592676</name>
-            <Point id="548">
-                <coordinates>21.026849,52.273293,0.0</coordinates>
-            </Point>
-        </Placemark>
-        <Placemark id="551">
-            <name>BIKE 592877</name>
-            <Point id="550">
-                <coordinates>21.026978,52.273244,0.0</coordinates>
-            </Point>
-        </Placemark>
-        <Placemark id="553">
-            <name>BIKE 592876</name>
-            <Point id="552">
-                <coordinates>21.026727,52.273316,0.0</coordinates>
-            </Point>
-        </Placemark>
-        <Placemark id="555">
-            <name>BIKE 592841</name>
-            <Point id="554">
-                <coordinates>21.02714,52.273111,0.0</coordinates>
-            </Point>
-        </Placemark>
-        <Placemark id="557">
-            <name>BIKE 592815</name>
-            <Point id="556">
-                <coordinates>21.027064,52.273138,0.0</coordinates>
-            </Point>
-        </Placemark>
-        <Placemark id="559">
-            <name>BIKE 592899</name>
-            <Point id="558">
-                <coordinates>21.026998,52.273227,0.0</coordinates>
-            </Point>
-        </Placemark>
-        <Placemark id="561">
-            <name>BIKE 592764</name>
-            <Point id="560">
-                <coordinates>21.027076,52.273338,0.0</coordinates>
-            </Point>
-        </Placemark>
-        <Placemark id="563">
-            <name>BIKE 592701</name>
-            <Point id="562">
-                <coordinates>21.027067,52.273093,0.0</coordinates>
-            </Point>
-        </Placemark>
-        <Placemark id="565">
-            <name>BIKE 592768</name>
-            <Point id="564">
-                <coordinates>21.026622,52.27364,0.0</coordinates>
-            </Point>
-        </Placemark>
-        <Placemark id="567">
-            <name>BIKE 592922</name>
-            <Point id="566">
-                <coordinates>21.026816,52.273387,0.0</coordinates>
-            </Point>
-        </Placemark>
-        <Placemark id="569">
-            <name>BIKE 592184</name>
-            <Point id="568">
-                <coordinates>21.027184,52.272871,0.0</coordinates>
-            </Point>
-        </Placemark>
-        <Placemark id="571">
-            <name>BIKE 592715</name>
-            <Point id="570">
-                <coordinates>21.026782,52.273276,0.0</coordinates>
-            </Point>
-        </Placemark>
-        <Placemark id="573">
-            <name>BIKE 592721</name>
-            <Point id="572">
-                <coordinates>21.027096,52.273356,0.0</coordinates>
-            </Point>
-        </Placemark>
-        <Placemark id="575">
-            <name>BIKE 592691</name>
-            <Point id="574">
-                <coordinates>21.026862,52.273413,0.0</coordinates>
-            </Point>
-        </Placemark>
-        <Placemark id="577">
-            <name>BIKE 592108</name>
-            <Point id="576">
-                <coordinates>21.026924,52.273169,0.0</coordinates>
-            </Point>
-        </Placemark>
-        <Placemark id="579">
-            <name>BIKE 592625</name>
-            <Point id="578">
-                <coordinates>21.0267,52.273373,0.0</coordinates>
-            </Point>
-        </Placemark>
-        <Placemark id="581">
-            <name>BIKE 592465</name>
-            <Point id="580">
-                <coordinates>21.026716,52.273258,0.0</coordinates>
-            </Point>
-        </Placemark>
-        <Placemark id="583">
-            <name>BIKE 592621</name>
-            <Point id="582">
-                <coordinates>21.026704,52.273542,0.0</coordinates>
-            </Point>
-        </Placemark>
-        <Placemark id="585">
-            <name>BIKE 592213</name>
-            <Point id="584">
-                <coordinates>21.02714,52.273022,0.0</coordinates>
-            </Point>
-        </Placemark>
-        <Placemark id="587">
-            <name>BIKE 592519</name>
-            <Point id="586">
-                <coordinates>21.027253,52.273658,0.0</coordinates>
-            </Point>
-        </Placemark>
-        <Placemark id="589">
-            <name>BIKE 591124</name>
-            <Point id="588">
-                <coordinates>21.026769,52.273733,0.0</coordinates>
-            </Point>
-        </Placemark>
-        <Placemark id="591">
-            <name>BIKE 591144</name>
-            <Point id="590">
-                <coordinates>21.027182,52.273329,0.0</coordinates>
-            </Point>
-        </Placemark>
-        <Placemark id="593">
-            <name>BIKE 591790</name>
-            <Point id="592">
-                <coordinates>21.027211,52.273302,0.0</coordinates>
-            </Point>
-        </Placemark>
-        <Placemark id="595">
-            <name>BIKE 29997</name>
-            <Point id="594">
-                <coordinates>20.850973,52.186156,0.0</coordinates>
-            </Point>
-        </Placemark>
-        <Placemark id="597">
-            <name>BIKE 590257</name>
-            <Point id="596">
-                <coordinates>16.989622,51.115973,0.0</coordinates>
-            </Point>
-        </Placemark>
-        <Placemark id="599">
-            <name>BIKE 591345</name>
-            <Point id="598">
-                <coordinates>21.025269,52.272876,0.0</coordinates>
-            </Point>
-        </Placemark>
-        <Placemark id="601">
-            <name>BIKE 592073</name>
-            <Point id="600">
-                <coordinates>21.027158,52.273084,0.0</coordinates>
-            </Point>
-        </Placemark>
-        <Placemark id="603">
-            <name>BIKE 592125</name>
-            <Point id="602">
-                <coordinates>21.029533,52.276253,0.0</coordinates>
-            </Point>
-        </Placemark>
-        <Placemark id="605">
-            <name>BIKE 590342</name>
-            <Point id="604">
-                <coordinates>21.026984,52.273111,0.0</coordinates>
-            </Point>
-        </Placemark>
-        <Placemark id="607">
-            <name>BIKE 590859</name>
-            <Point id="606">
-                <coordinates>17.054521,51.114836,0.0</coordinates>
-            </Point>
-        </Placemark>
-        <Placemark id="609">
-            <name>BIKE 592638</name>
-            <Point id="608">
-                <coordinates>17.002986,51.120871,0.0</coordinates>
-            </Point>
-        </Placemark>
-        <Placemark id="611">
-            <name>BIKE 591037</name>
-            <Point id="610">
-                <coordinates>21.025911,52.273782,0.0</coordinates>
-            </Point>
-        </Placemark>
-        <Placemark id="613">
-            <name>BIKE 591517</name>
-            <Point id="612">
-                <coordinates>17.029121,51.124209,0.0</coordinates>
-            </Point>
-        </Placemark>
-        <Placemark id="615">
-            <name>BIKE 592307</name>
-            <Point id="614">
-                <coordinates>16.895806,51.157316,0.0</coordinates>
-            </Point>
-        </Placemark>
-        <Placemark id="617">
-            <name>BIKE 590581</name>
-            <Point id="616">
-                <coordinates>16.985203,51.097822,0.0</coordinates>
-            </Point>
-        </Placemark>
-        <Placemark id="619">
-            <name>BIKE 590582</name>
-            <Point id="618">
-                <coordinates>16.991388,51.055307,0.0</coordinates>
-            </Point>
-        </Placemark>
-        <Placemark id="621">
-            <name>BIKE 591173</name>
-            <Point id="620">
-                <coordinates>16.991476,51.055529,0.0</coordinates>
-            </Point>
-        </Placemark>
-        <Placemark id="623">
-            <name>BIKE 590888</name>
-            <Point id="622">
-                <coordinates>21.026998,52.273249,0.0</coordinates>
-            </Point>
-        </Placemark>
-        <Placemark id="625">
-            <name>BIKE 592588</name>
-            <Point id="624">
-                <coordinates>21.026798,52.27348,0.0</coordinates>
-            </Point>
-        </Placemark>
-        <Placemark id="627">
-            <name>BIKE 592142</name>
-            <Point id="626">
-                <coordinates>16.985016,51.097964,0.0</coordinates>
-            </Point>
-        </Placemark>
-        <Placemark id="629">
-            <name>BIKE 591784</name>
-            <Point id="628">
-                <coordinates>16.863726,51.150587,0.0</coordinates>
-            </Point>
-        </Placemark>
-        <Placemark id="631">
-            <name>BIKE 592678</name>
-            <Point id="630">
-                <coordinates>16.986002,51.098307,0.0</coordinates>
-            </Point>
-        </Placemark>
-        <Placemark id="633">
-            <name>BIKE 591211</name>
-            <Point id="632">
-                <coordinates>16.990573,51.056333,0.0</coordinates>
-            </Point>
-        </Placemark>
-        <Placemark id="635">
-            <name>BIKE 590660</name>
-            <Point id="634">
-                <coordinates>16.881747,51.071476,0.0</coordinates>
-            </Point>
-        </Placemark>
-        <Placemark id="637">
-            <name>BIKE 590026</name>
-            <Point id="636">
-                <coordinates>16.921014,51.157707,0.0</coordinates>
-            </Point>
-        </Placemark>
-        <Placemark id="639">
-            <name>BIKE 592823</name>
-            <Point id="638">
-                <coordinates>17.019188,51.048484,0.0</coordinates>
-            </Point>
-        </Placemark>
-        <Placemark id="641">
-            <name>BIKE 592461</name>
-            <Point id="640">
-                <coordinates>17.037479,51.156622,0.0</coordinates>
-            </Point>
-        </Placemark>
-        <Placemark id="643">
-            <name>BIKE 591585</name>
-            <Point id="642">
-                <coordinates>17.063647,51.052391,0.0</coordinates>
-            </Point>
-        </Placemark>
-        <Placemark id="645">
-            <name>BIKE 604761</name>
-            <Point id="644">
-                <coordinates>21.02662,52.273175,0.0</coordinates>
-            </Point>
-        </Placemark>
-        <Placemark id="647">
-            <name>BIKE 591846</name>
-            <Point id="646">
-                <coordinates>17.058351,51.049471,0.0</coordinates>
-            </Point>
-        </Placemark>
-        <Placemark id="649">
-            <name>BIKE 590975</name>
-            <Point id="648">
-                <coordinates>17.047789,51.163729,0.0</coordinates>
-            </Point>
-        </Placemark>
-        <Placemark id="651">
-            <name>BIKE 591886</name>
-            <Point id="650">
-                <coordinates>17.0889,51.1038,0.0</coordinates>
-            </Point>
-        </Placemark>
-        <Placemark id="653">
-            <name>BIKE 591791</name>
-            <Point id="652">
-                <coordinates>17.078978,51.080876,0.0</coordinates>
-            </Point>
-        </Placemark>
-        <Placemark id="655">
-            <name>BIKE 590489</name>
-            <Point id="654">
-                <coordinates>16.852907,51.140009,0.0</coordinates>
-            </Point>
-        </Placemark>
-        <Placemark id="657">
-            <name>BIKE 592893</name>
-            <Point id="656">
-                <coordinates>17.042152,51.158764,0.0</coordinates>
-            </Point>
-        </Placemark>
-        <Placemark id="659">
-            <name>BIKE 591454</name>
-            <Point id="658">
-                <coordinates>16.968987,51.02728,0.0</coordinates>
-            </Point>
-        </Placemark>
-        <Placemark id="661">
-            <name>BIKE 590617</name>
-            <Point id="660">
-                <coordinates>17.031761,51.113022,0.0</coordinates>
-            </Point>
-        </Placemark>
-        <Placemark id="663">
-            <name>BIKE 591143</name>
-            <Point id="662">
-                <coordinates>17.031819,51.112987,0.0</coordinates>
-            </Point>
-        </Placemark>
-        <Placemark id="665">
-            <name>BIKE 592414</name>
-            <Point id="664">
-                <coordinates>17.04821,51.101671,0.0</coordinates>
-            </Point>
-        </Placemark>
-        <Placemark id="667">
-            <name>BIKE 590419</name>
-            <Point id="666">
-                <coordinates>17.025411,51.093213,0.0</coordinates>
-            </Point>
-        </Placemark>
-        <Placemark id="669">
-            <name>BIKE 590847</name>
-            <Point id="668">
-                <coordinates>17.048164,51.101671,0.0</coordinates>
-            </Point>
-        </Placemark>
-        <Placemark id="671">
-            <name>BIKE 590902</name>
-            <Point id="670">
-                <coordinates>17.084964,51.080876,0.0</coordinates>
-            </Point>
-        </Placemark>
-        <Placemark id="673">
-            <name>BIKE 590819</name>
-            <Point id="672">
-                <coordinates>17.041289,51.107022,0.0</coordinates>
-            </Point>
-        </Placemark>
-        <Placemark id="675">
-            <name>BIKE 591016</name>
-            <Point id="674">
-                <coordinates>17.133424,51.144476,0.0</coordinates>
-            </Point>
-        </Placemark>
-        <Placemark id="677">
-            <name>BIKE 590810</name>
-            <Point id="676">
-                <coordinates>17.044752,51.159267,0.0</coordinates>
-            </Point>
-        </Placemark>
-        <Placemark id="679">
-            <name>BIKE 591160</name>
-            <Point id="678">
-                <coordinates>16.865381,51.14168,0.0</coordinates>
-            </Point>
-        </Placemark>
-        <Placemark id="681">
-            <name>BIKE 592472</name>
-            <Point id="680">
-                <coordinates>17.058007,51.136116,0.0</coordinates>
-            </Point>
-        </Placemark>
-        <Placemark id="683">
-            <name>BIKE 590016</name>
-            <Point id="682">
-                <coordinates>16.874763,51.13644,0.0</coordinates>
-            </Point>
-        </Placemark>
-        <Placemark id="685">
-            <name>BIKE 591561</name>
-            <Point id="684">
-                <coordinates>17.06526,51.085227,0.0</coordinates>
-            </Point>
-        </Placemark>
-        <Placemark id="687">
-            <name>BIKE 592302</name>
-            <Point id="686">
-                <coordinates>17.099174,51.112413,0.0</coordinates>
-            </Point>
-        </Placemark>
-        <Placemark id="689">
-            <name>BIKE 591031</name>
-            <Point id="688">
-                <coordinates>17.024468,51.098933,0.0</coordinates>
-            </Point>
-        </Placemark>
-        <Placemark id="691">
-            <name>BIKE 590101</name>
-            <Point id="690">
-                <coordinates>16.990581,51.056307,0.0</coordinates>
-            </Point>
-        </Placemark>
-        <Placemark id="693">
-            <name>BIKE 590042</name>
-            <Point id="692">
-                <coordinates>17.019848,51.099116,0.0</coordinates>
-            </Point>
-        </Placemark>
-        <Placemark id="695">
-            <name>BIKE 591948</name>
-            <Point id="694">
-                <coordinates>17.095583,51.138551,0.0</coordinates>
-            </Point>
-        </Placemark>
-        <Placemark id="697">
-            <name>BIKE 591315</name>
-            <Point id="696">
-                <coordinates>16.99114,51.055564,0.0</coordinates>
-            </Point>
-        </Placemark>
-        <Placemark id="699">
-            <name>BIKE 590947</name>
-            <Point id="698">
-                <coordinates>17.010021,51.092342,0.0</coordinates>
-            </Point>
-        </Placemark>
-        <Placemark id="701">
-            <name>BIKE 590135</name>
-            <Point id="700">
-                <coordinates>17.021589,51.10964,0.0</coordinates>
-            </Point>
-        </Placemark>
-        <Placemark id="703">
-            <name>BIKE 591216</name>
-            <Point id="702">
-                <coordinates>16.942616,51.096133,0.0</coordinates>
-            </Point>
-        </Placemark>
-        <Placemark id="705">
-            <name>BIKE 592029</name>
-            <Point id="704">
-                <coordinates>16.974396,51.138609,0.0</coordinates>
-            </Point>
-        </Placemark>
-        <Placemark id="707">
-            <name>BIKE 591564</name>
-            <Point id="706">
-                <coordinates>17.03927,51.097147,0.0</coordinates>
-            </Point>
-        </Placemark>
-        <Placemark id="709">
-            <name>BIKE 590003</name>
-            <Point id="708">
-                <coordinates>17.056118,51.112542,0.0</coordinates>
-            </Point>
-        </Placemark>
-        <Placemark id="711">
-            <name>BIKE 590346</name>
-            <Point id="710">
-                <coordinates>16.976696,51.090231,0.0</coordinates>
-            </Point>
-        </Placemark>
-        <Placemark id="713">
-            <name>BIKE 590662</name>
-            <Point id="712">
-                <coordinates>16.922337,51.156093,0.0</coordinates>
-            </Point>
-        </Placemark>
-        <Placemark id="715">
-            <name>BIKE 592198</name>
-            <Point id="714">
-                <coordinates>17.041109,51.105844,0.0</coordinates>
-            </Point>
-        </Placemark>
-        <Placemark id="717">
-            <name>BIKE 590627</name>
-            <Point id="716">
-                <coordinates>17.04685,51.085458,0.0</coordinates>
-            </Point>
-        </Placemark>
-        <Placemark id="719">
-            <name>BIKE 591696</name>
-            <Point id="718">
-                <coordinates>17.100848,51.169116,0.0</coordinates>
-            </Point>
-        </Placemark>
-        <Placemark id="721">
-            <name>BIKE 590314</name>
-            <Point id="720">
-                <coordinates>17.020487,51.060778,0.0</coordinates>
-            </Point>
-        </Placemark>
-        <Placemark id="723">
-            <name>BIKE 591374</name>
-            <Point id="722">
-                <coordinates>16.991222,51.055476,0.0</coordinates>
-            </Point>
-        </Placemark>
-        <Placemark id="725">
-            <name>BIKE 590551</name>
-            <Point id="724">
-                <coordinates>17.050246,51.115747,0.0</coordinates>
-            </Point>
-        </Placemark>
-        <Placemark id="727">
-            <name>BIKE 591707</name>
-            <Point id="726">
-                <coordinates>17.043604,51.094,0.0</coordinates>
-            </Point>
-        </Placemark>
-        <Placemark id="729">
-            <name>BIKE 590554</name>
-            <Point id="728">
-                <coordinates>16.98276,51.097436,0.0</coordinates>
-            </Point>
-        </Placemark>
-        <Placemark id="731">
-            <name>BIKE 592436</name>
-            <Point id="730">
-                <coordinates>17.047643,51.070133,0.0</coordinates>
-            </Point>
-        </Placemark>
-        <Placemark id="733">
-            <name>BIKE 591255</name>
-            <Point id="732">
-                <coordinates>17.034441,51.118898,0.0</coordinates>
-            </Point>
-        </Placemark>
-        <Placemark id="735">
-            <name>BIKE 592026</name>
-            <Point id="734">
-                <coordinates>17.054137,51.1,0.0</coordinates>
-            </Point>
-        </Placemark>
-        <Placemark id="737">
-            <name>BIKE 591937</name>
-            <Point id="736">
-                <coordinates>16.973243,51.047671,0.0</coordinates>
-            </Point>
-        </Placemark>
-        <Placemark id="739">
-            <name>BIKE 592674</name>
-            <Point id="738">
-                <coordinates>16.916138,51.121907,0.0</coordinates>
-            </Point>
-        </Placemark>
-        <Placemark id="741">
-            <name>BIKE 590890</name>
-            <Point id="740">
-                <coordinates>17.047142,51.099707,0.0</coordinates>
-            </Point>
-        </Placemark>
-        <Placemark id="743">
-            <name>BIKE 592305</name>
-            <Point id="742">
-                <coordinates>17.070759,51.147089,0.0</coordinates>
-            </Point>
-        </Placemark>
-        <Placemark id="745">
-            <name>BIKE 590086</name>
-            <Point id="744">
-                <coordinates>16.944059,51.043009,0.0</coordinates>
-            </Point>
-        </Placemark>
-        <Placemark id="747">
-            <name>BIKE 590469</name>
-            <Point id="746">
-                <coordinates>17.036948,51.107893,0.0</coordinates>
-            </Point>
-        </Placemark>
-        <Placemark id="749">
-            <name>BIKE 592235</name>
-            <Point id="748">
-                <coordinates>17.018107,51.094813,0.0</coordinates>
-            </Point>
-        </Placemark>
-        <Placemark id="751">
-            <name>BIKE 590906</name>
-            <Point id="750">
-                <coordinates>16.977558,51.055249,0.0</coordinates>
-            </Point>
-        </Placemark>
-        <Placemark id="753">
-            <name>BIKE 592068</name>
-            <Point id="752">
-                <coordinates>17.014609,51.088564,0.0</coordinates>
-            </Point>
-        </Placemark>
-        <Placemark id="755">
-            <name>BIKE 591744</name>
-            <Point id="754">
-                <coordinates>16.979218,51.131471,0.0</coordinates>
-            </Point>
-        </Placemark>
-        <Placemark id="757">
-            <name>BIKE 590929</name>
-            <Point id="756">
-                <coordinates>17.051449,51.087133,0.0</coordinates>
-            </Point>
-        </Placemark>
-        <Placemark id="759">
-            <name>BIKE 590073</name>
-            <Point id="758">
-                <coordinates>17.112837,51.174747,0.0</coordinates>
-            </Point>
-        </Placemark>
-        <Placemark id="761">
-            <name>BIKE 590878</name>
-            <Point id="760">
-                <coordinates>17.030108,51.106316,0.0</coordinates>
-            </Point>
-        </Placemark>
-        <Placemark id="763">
-            <name>BIKE 592427</name>
-            <Point id="762">
-                <coordinates>17.033102,51.091236,0.0</coordinates>
-            </Point>
-        </Placemark>
-        <Placemark id="765">
-            <name>BIKE 591551</name>
-            <Point id="764">
-                <coordinates>17.078991,51.109578,0.0</coordinates>
-            </Point>
-        </Placemark>
-        <Placemark id="767">
-            <name>BIKE 591663</name>
-            <Point id="766">
-                <coordinates>17.078926,51.109569,0.0</coordinates>
-            </Point>
-        </Placemark>
-        <Placemark id="769">
-            <name>BIKE 590895</name>
-            <Point id="768">
-                <coordinates>17.022829,51.100178,0.0</coordinates>
-            </Point>
-        </Placemark>
-        <Placemark id="771">
-            <name>BIKE 591987</name>
-            <Point id="770">
-                <coordinates>17.033089,51.097209,0.0</coordinates>
-            </Point>
-        </Placemark>
-        <Placemark id="773">
-            <name>BIKE 590081</name>
-            <Point id="772">
-                <coordinates>16.923944,51.135778,0.0</coordinates>
-            </Point>
-        </Placemark>
-        <Placemark id="775">
+        <Placemark id="471">
             <name>Osiedlowa/Ciepłownicza Siechnice</name>
-            <Point id="774">
+            <Point id="470">
                 <coordinates>17.153896,51.025382,0.0</coordinates>
             </Point>
         </Placemark>
-        <Placemark id="777">
+        <Placemark id="473">
             <name>Siechnice PKP</name>
-            <Point id="776">
+            <Point id="472">
                 <coordinates>17.144258,51.038098,0.0</coordinates>
             </Point>
         </Placemark>
-        <Placemark id="779">
+        <Placemark id="475">
             <name>Siechnice UM</name>
-            <Point id="778">
+            <Point id="474">
                 <coordinates>17.150512,51.032555,0.0</coordinates>
             </Point>
         </Placemark>
-        <Placemark id="781">
+        <Placemark id="477">
             <name>Radwanice ul. Kolejowa (Biedronka)</name>
-            <Point id="780">
+            <Point id="476">
                 <coordinates>17.105197,51.057135,0.0</coordinates>
             </Point>
         </Placemark>
-        <Placemark id="783">
+        <Placemark id="479">
             <name>Żerniki Wrocławskie Pętla</name>
-            <Point id="782">
+            <Point id="478">
                 <coordinates>17.056056,51.033391,0.0</coordinates>
             </Point>
         </Placemark>
-        <Placemark id="785">
+        <Placemark id="481">
             <name>Święta Katarzyna PKP</name>
-            <Point id="784">
+            <Point id="480">
                 <coordinates>17.123084,51.029405,0.0</coordinates>
             </Point>
         </Placemark>
-        <Placemark id="787">
+        <Placemark id="483">
             <name>Kamieniec Wrocławski - Szkoła</name>
-            <Point id="786">
+            <Point id="482">
                 <coordinates>17.17357,51.077945,0.0</coordinates>
             </Point>
         </Placemark>
-        <Placemark id="789">
+        <Placemark id="485">
             <name>Dobrzykowice P&amp;R</name>
-            <Point id="788">
+            <Point id="484">
                 <coordinates>17.18119,51.086982,0.0</coordinates>
             </Point>
         </Placemark>
-        <Placemark id="791">
+        <Placemark id="487">
             <name>Dobrzykowice ul. Szkolna</name>
-            <Point id="790">
+            <Point id="486">
                 <coordinates>17.192763,51.094503,0.0</coordinates>
             </Point>
         </Placemark>
-        <Placemark id="793">
-            <name>BIKE 592910</name>
-            <Point id="792">
-                <coordinates>16.972511,51.079084,0.0</coordinates>
-            </Point>
-        </Placemark>
-        <Placemark id="795">
+        <Placemark id="489">
             <name>Bielany Wrocławskie Kolejowa P&amp;R</name>
-            <Point id="794">
+            <Point id="488">
                 <coordinates>16.976374,51.03795,0.0</coordinates>
             </Point>
         </Placemark>
-        <Placemark id="797">
+        <Placemark id="491">
             <name>Wysoka/Nastrojowa</name>
-            <Point id="796">
+            <Point id="490">
                 <coordinates>17.003956,51.052835,0.0</coordinates>
             </Point>
         </Placemark>
-        <Placemark id="799">
+        <Placemark id="493">
             <name>Wysoka Parkowa / Lipowa</name>
-            <Point id="798">
+            <Point id="492">
                 <coordinates>17.014538,51.042472,0.0</coordinates>
             </Point>
         </Placemark>
-        <Placemark id="801">
+        <Placemark id="495">
             <name>Ślęza Parkowa</name>
-            <Point id="800">
+            <Point id="494">
                 <coordinates>16.993278,51.034473,0.0</coordinates>
             </Point>
         </Placemark>
-        <Placemark id="803">
-            <name>BIKE 591352</name>
-            <Point id="802">
-                <coordinates>16.952948,51.040342,0.0</coordinates>
-            </Point>
-        </Placemark>
-        <Placemark id="805">
-            <name>BIKE 591647</name>
-            <Point id="804">
-                <coordinates>16.999586,51.030071,0.0</coordinates>
-            </Point>
-        </Placemark>
-        <Placemark id="807">
-            <name>BIKE 591839</name>
-            <Point id="806">
-                <coordinates>17.033001,51.097284,0.0</coordinates>
-            </Point>
-        </Placemark>
-        <Placemark id="809">
+        <Placemark id="497">
             <name>Mokronos Górny PKP</name>
-            <Point id="808">
+            <Point id="496">
                 <coordinates>16.908149,51.078886,0.0</coordinates>
             </Point>
         </Placemark>
-        <Placemark id="811">
+        <Placemark id="499">
             <name>Smolec</name>
-            <Point id="810">
+            <Point id="498">
                 <coordinates>16.911286,51.087048,0.0</coordinates>
             </Point>
         </Placemark>
-        <Placemark id="813">
+        <Placemark id="501">
             <name>Stawowa / Wiśniowa Mokronos Dolny</name>
-            <Point id="812">
+            <Point id="500">
                 <coordinates>16.936889,51.07055,0.0</coordinates>
             </Point>
         </Placemark>
-        <Placemark id="815">
+        <Placemark id="503">
             <name>Wrocławska / Spacerowa Mokronos Górny</name>
-            <Point id="814">
+            <Point id="502">
                 <coordinates>16.919512,51.074457,0.0</coordinates>
             </Point>
         </Placemark>
-        <Placemark id="817">
-            <name>BIKE 590566</name>
-            <Point id="816">
-                <coordinates>16.898926,51.083231,0.0</coordinates>
-            </Point>
-        </Placemark>
-        <Placemark id="819">
+        <Placemark id="505">
             <name>Psary Centrum</name>
-            <Point id="818">
+            <Point id="504">
                 <coordinates>17.029398,51.185896,0.0</coordinates>
-            </Point>
-        </Placemark>
-        <Placemark id="821">
-            <name>BIKE 591614</name>
-            <Point id="820">
-                <coordinates>17.077608,51.272618,0.0</coordinates>
             </Point>
         </Placemark>
     </Document>
